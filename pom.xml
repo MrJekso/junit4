@@ -23,5 +23,11 @@
       <version>4.13.1</version>
       <scope>test</scope>
     </dependency>
+    <dependency>
+      <groupId>de.bechte.junit</groupId>
+      <artifactId>junit-hierarchicalcontextrunner</artifactId>
+      <version>4.12.2</version>
+      <scope>test</scope>
+    </dependency>
   </dependencies>
 </project>
